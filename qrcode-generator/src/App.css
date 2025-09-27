@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.app {
+    @apply flex flex-col items-center h-screen mt-16 gap-2;
+}
